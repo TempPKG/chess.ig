@@ -1,6 +1,6 @@
 # Chess Game with Stockfish AI
 
-This is a simple chess game built using Python, PyQt5, and the `python-chess` library. It includes an AI opponent powered by Stockfish.
+This is a simple chess game built using Python, PyQt5, and the `python-chess` library. It includes an AI opponent powered by [Stockfish](https://stockfishchess.org/), the world's strongest open-source chess engine.
 
 ## Features
 - Customizable board themes and piece sets.
